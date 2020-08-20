@@ -25,5 +25,5 @@ If you use Oxygen site builder to create your posts and pages this add-on is wha
 ## Premium Oxygen Third-Party Widgets/Add-Ons
 * [Oxygen Attributes](https://www.erropix.com/products/oxygen-attributes/) - Extend oxygen builder with custom elements attributes.
 * [WP Fluent Forms](https://wpmanageninja.com/wp-fluent-form/) - Your WordPress forms are just a few clicks away.
-* [Power-up Oxygen Builder](https://oxypowerpack.com/) - powerful features, cool effects, new elements
+* [OxyPowerPack](https://oxypowerpack.com/) - powerful features, cool effects, new elements. Inclucing "Maintenance Mode" for Oxygen Builder, a CountDown timer a powerful map element and soon a form designer.
 * [Nimbufy](https://nimbufy.com/) - Bring any webpage layout into Oxygen builder for WordPress and start customising in no time. Stop wasting time trying to do it the 'right way'. Use Nimbufy with Oxygen builder.
